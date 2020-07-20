@@ -55,7 +55,9 @@ Description | Amount | Price
 ------------ | ------------- | --------
 Nasi Goreng Pattaya Maju | 1 | RM 5
 Cendol Durian | 3 | RM 3
-Total |
---------------|---| RM14
+Total | ---| RM14
 
 Activity Diagram
+
+Reference
+
