@@ -36,5 +36,15 @@ i.	For formatting and styling  - Markdown Syntax
    1. Item 3b
 ```
 
-- Images - Food Menu
+- Images -
+![Image of Eatcart Logo](https://image.flaticon.com/icons/svg/857/857755.svg)
+
+
 - Table - Billing and receipt
+
+Description | Amount | Price
+------------ | ------------- | --------
+Nasi Goreng Pattaya Maju | 1 | RM 5
+Cendol Durian | 3 | RM 3
+Total |
+--------------| RM14
