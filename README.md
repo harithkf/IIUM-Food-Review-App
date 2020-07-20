@@ -36,7 +36,7 @@ i.	For formatting and styling  - Markdown Syntax
    1. Item 3b
 ```
 
-- Images -
+- Images - Our EatCart Logo
 ![Image of Eatcart Logo](https://eatcart.co.uk/wp-content/uploads/2020/06/eatcart-web-logo.png)
 
 
