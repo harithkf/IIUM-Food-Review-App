@@ -27,11 +27,18 @@ f. Features and functionalities
 Firebase - cust profile, food profile, cust feedback
 Food, order date n time
 
+Screen navigation 
+Main Menu
+(D:/AIRIS SEMESTER 2020/mainmenu.png)
+
 Camera API - to take pictures of food and family
 
 g.	A sequence diagram to represent the interaction of the proposed mobile application.
 
 h.	References.
+https://www.xdguru.com/food-and-cuisine-app-xd-concept/
+https://github.com/Codebrahma/React-Native-Restaurant-App/tree/master/screenshots
+https://github.com/Codebrahma/React-Native-Restaurant-App
 
 i.	For formatting and styling  - Markdown Syntax
 
