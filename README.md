@@ -37,11 +37,11 @@ i.	For formatting and styling  - Markdown Syntax
 - Ordered List - Order Menu
 
 ```
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. MAIN COURSE
+2. DESERTS
+3. DRINKS
+   1. HOT
+   2. COLD
 ```
 
 - Images - Our EatCart Logo
@@ -56,3 +56,9 @@ Nasi Goreng Pattaya Maju | 1 | RM 5
 Cendol Durian | 3 | RM 3
 Total |
 --------------| RM14
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
