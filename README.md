@@ -1,6 +1,7 @@
-# EATCART
+# PROPOSAL
 GROUP NAME : RAUDHAH
 GROUP MEMBERS : 
+
 -MUHAMMAD HARITH BIN KHAIRUL FAIZI 1622875
 -NURUL SHUHAILA BINTI AZMAN 1710060
 -SIDDIQUE YAHIA 1639835
@@ -55,10 +56,6 @@ Description | Amount | Price
 Nasi Goreng Pattaya Maju | 1 | RM 5
 Cendol Durian | 3 | RM 3
 Total |
---------------| RM14
+--------------|---| RM14
 
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+Activity Diagram
