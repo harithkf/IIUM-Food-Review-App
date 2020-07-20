@@ -29,7 +29,7 @@ Food, order date n time
 
 Screen navigation 
 Main Menu
-(D:/AIRIS SEMESTER 2020/mainmenu.png)
+(Pictures/mainmenu.png)
 
 Camera API - to take pictures of food and family
 
