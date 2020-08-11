@@ -17,7 +17,9 @@ Instructor’s Name - Dr. MUHAMAD SADRY ABU SEMAN
 Title - IIUMFoodReview App
 
 
-c. Introduction :
+
+**INTRODUCTION**
+
 IIUM has a wide variety of food and cuisine where students can find a hard time figuring out what cuisines are the most recommended. In this mobile application, we provide students and staffs to view all the cafe and restaurant available in IIUM as well as their opening and closing hours. Student and staff can also give review and tag as favourite of their recommended cafe's.
 
 **OBJECTIVES**
@@ -34,10 +36,6 @@ Write reviews for a restaurant
 Mark a restaurant as favorite
 g.	A sequence diagram to represent the interaction of the proposed mobile application.
 
-h.	References.
-https://www.xdguru.com/food-and-cuisine-app-xd-concept/
-https://github.com/Codebrahma/React-Native-Restaurant-App/tree/master/screenshots
-https://github.com/Codebrahma/React-Native-Restaurant-App
 
 i.	For formatting and styling  - Markdown Syntax
 
@@ -61,6 +59,10 @@ Cendol Durian | 3 | RM 3
 Total | ---| RM14
 
 Activity Diagram
+  
 
-Reference
+**REFERENCES**
 
+https://www.xdguru.com/food-and-cuisine-app-xd-concept/
+https://github.com/Codebrahma/React-Native-Restaurant-App/tree/master/screenshots
+https://github.com/Codebrahma/React-Native-Restaurant-App
