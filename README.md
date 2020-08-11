@@ -37,29 +37,12 @@ Mark a restaurant as favorite
 g.	A sequence diagram to represent the interaction of the proposed mobile application.
 
 
-i.	For formatting and styling  - Markdown Syntax
-
-- Ordered List - Order Menu
-
-```
-1. MAIN COURSE
-2. DESERTS
-3. DRINKS
-   1. HOT
-   2. COLD
-```
-
-
-- Table - Billing and receipt
-
-Description | Amount | Price
------------- | ------------- | --------
-Nasi Goreng Pattaya Maju | 1 | RM 5
-Cendol Durian | 3 | RM 3
-Total | ---| RM14
-
 Activity Diagram
   
+ This is a Activity diagram to represent the interaction of the proposed mobile application.
+ 
+ ![Sequence Diagram](/sequence.png)
+ 
 
 **REFERENCES**
 
