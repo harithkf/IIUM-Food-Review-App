@@ -2,10 +2,16 @@
 GROUP NAME : RAUDHAH
 GROUP MEMBERS : 
 
--MUHAMMAD HARITH BIN KHAIRUL FAIZI 1622875
--NURUL SHUHAILA BINTI AZMAN 1710060
--SIDDIQUE YAHIA 1639835
--ABDULKADIR ABIKAR ABDILBARI 1626081
+Name | Matric Number
+------------ | -------------
+MUHAMMAD HARITH BIN KHAIRUL FAIZI | 1622875
+NURUL SHUHAILA BINTI AZMAN | 1710060
+ABDULKADIR ABIKAR ABDILBARI | 1626081
+SIDDIQUE YAHIA | 1639835
+
+Instructor’s Name - Dr. MUHAMAD SADRY ABU SEMAN
+
+
 
 
 Title - EatCart
@@ -15,12 +21,10 @@ c. Introduction :
 
 Imagine that you own a restaurant and you don't have enough manpower to take customer order. By using Eatcart, customer can the reduce the hustle by waiting for order by using our mobile app. Customer can order their food at 'our' restaurant via mobile apps. Customer can take order , view the bill, receive the food, fill in customer feedback (customer can upload their family/food picture while enjoying the specific meal)
 
-e, Objective
+**OBJECTIVES**
+1. Allow students and staffs to use their mobile camera to take photo of the food and write a note about it, such as the taste, the price and the cleanliness of the store.
+1. To increase promotion in  Mahallah Cafe and Restaurant inside IIUM
 
-- To take orders from customer
-- View the bills after payment has been made
-- Take food pictures for food review
-- Fill in the customer feedback
 
 f. Features and functionalities
 
