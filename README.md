@@ -14,7 +14,7 @@ Instructor’s Name - Dr. MUHAMAD SADRY ABU SEMAN
 
 
 
-Title - EatCart
+Title - IIUMFoodReview App
 
 
 c. Introduction :
