@@ -18,25 +18,20 @@ Title - IIUMFoodReview App
 
 
 c. Introduction :
-
-Imagine that you own a restaurant and you don't have enough manpower to take customer order. By using Eatcart, customer can the reduce the hustle by waiting for order by using our mobile app. Customer can order their food at 'our' restaurant via mobile apps. Customer can take order , view the bill, receive the food, fill in customer feedback (customer can upload their family/food picture while enjoying the specific meal)
+IIUM has a wide variety of food and cuisine where students can find a hard time figuring out what cuisines are the most recommended. In this mobile application, we provide students and staffs to view all the cafe and restaurant available in IIUM as well as their opening and closing hours. Student and staff can also give review and tag as favourite of their recommended cafe's.
 
 **OBJECTIVES**
 1. Allow students and staffs to use their mobile camera to take photo of the food and write a note about it, such as the taste, the price and the cleanliness of the store.
 1. To increase promotion in  Mahallah Cafe and Restaurant inside IIUM
 
 
-f. Features and functionalities
+**FEATURES AND FUNCTIONALITIES**
 
-Firebase - cust profile, food profile, cust feedback
-Food, order date n time
-
-Screen navigation 
-Main Menu
-(Pictures/mainmenu.png)
-
-Camera API - to take pictures of food and family
-
+View all Cafes in Mahallah and Kulliyah
+View Cafes or restaurant for a specific Kulliyah or cuisine
+View details to a restaurant like opening hours and reviews
+Write reviews for a restaurant
+Mark a restaurant as favorite
 g.	A sequence diagram to represent the interaction of the proposed mobile application.
 
 h.	References.
