@@ -69,26 +69,20 @@ Firebase | Store users' information
 ![Sign In](/images/SignIn.jpg)
 
 
-
 ### Home Page:
 ![Home Page 1](/images/HomePage.jpg)
-![Home Page 2](/images/HomePage2.jpg)
-
 
 
 ### Cafeteria Page:
 ![Cafeteria Page](/images/CafeteriaPage.jpg)
 
 
-
 ### Menu Highlighted Page:
 ![Menu Highlighted Page](/images/MenuHighlights.jpg)
 
 
-
 ### Review Box:
 ![Review Box](/images/Review.jpg)
-
 
 
 ### Profile Page:
