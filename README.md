@@ -61,20 +61,20 @@ Firebase | Store users' information
 
 ## SCREEEN NAVIGATION
 
-### * Home Page:
+### Home Page:
 ![Home Page 1](/images/HomePage.jpg)
 ![Home Page 2](/images/HomePage2.jpg)
 
-### * Cafeteria Page:
+### Cafeteria Page:
 ![Cafeteria Page](/images/CafeteriaPage.jpg)
 
-### * Menu Highlighted Page:
+### Menu Highlighted Page:
 ![Menu Highlighted Page](/images/MenuHighlights.jpg)
 
-### * Review Box:
+### Review Box:
 ![Review Box](/images/Review.jpg)
 
-### * Profile Page:
+### Profile Page:
 ![Profile Page](/images/ProfilePage.jpg)
 
 
@@ -96,7 +96,7 @@ onChangeText | Use in TextInput components
 
 ## SEQUENCE DIAGRAM OF THE MOBILE APPLICATION
 
-![Sequence Diagram](/images/SequenceDiagram.jpg)
+![Sequence Diagram](/images/SequenceDiagram.png)
 
 
 ## REFERENCES
