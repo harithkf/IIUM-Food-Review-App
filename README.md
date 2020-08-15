@@ -42,12 +42,11 @@ Features | Explanation
 Sign Up | User need to fill in register form for the first time
 Log In | User log in to the app using e-mail and password
 Homepage | Display all cafeterias in IIUM and their business hours
-Food review pages |
-* Display all food and meals that are available at specific cafeterias.
-  * Write and view reviews for the meals and cafeterias.
- | Give ratings to the meals in specific cafeterias.
-Take pictures and upload the moments with the meal.
-Profile page | View users' profile
+Food review pages | Display all food and meals that are available at specific cafeterias.
+Food Review pages | Write and view reviews for the meals and cafeterias.
+Food Review pages | Give ratings to the meals in specific cafeterias.
+Food Review pages | Take pictures and upload the moments with the meal.
+Food Review pages | Profile page | View users' profile
 Edit profile page | Allow user to edit their profile
 Firebase | Store users' information
 
@@ -62,46 +61,42 @@ Firebase | Store users' information
 
 ## SCREEEN NAVIGATION
 
-* Home Page:
+### * Home Page:
 ![Home Page 1](/images/HomePage.jpg)
 ![Home Page 2](/images/HomePage2.jpg)
 
-* Cafeteria Page:
+### * Cafeteria Page:
 ![Cafeteria Page](/images/CafeteriaPage.jpg)
 
-* Menu Highlighted Page:
-![Menu Highlighted Page](MenuHighlights.jpg)
+### * Menu Highlighted Page:
+![Menu Highlighted Page](/images/MenuHighlights.jpg)
 
-* Review Box:
-![Review Box](Review.jpg)
+### * Review Box:
+![Review Box](/images/Review.jpg)
 
-* Profile Page:
-![Profile Page](ProfilePage.jpg)
+### * Profile Page:
+![Profile Page](/images/ProfilePage.jpg)
 
 
 ## PRESENTATIONAL AND CONTAINER COMPONENTS
 
 Presentational Components | Explanation
 ------------- | ---------------------------------------
-Homepage | User can view all available cafeteria in IIUM
-xxx | User can view all meals that available in the 
-TextInput | xxx
-Text | xx
-View | xx
-Button | xx
+TextInput | To key-in user's details in log in/sign up page & the input of user's review and feedback
+Text | To name the title of every page for users' view
+View | To display the components used
+Button | Used to proceed with log in/ sign up & to view specific cafeterias at homepage & submit reviews and feedback
 
 
 Container Components | Explanation
 ------------- | ---------------------------------------
-onPress |xx
-onChangeText | xx
+onPress |	Click the button and proceed to the next page & click the given options in the category section for adding the items to the database
+onChangeText | Use in TextInput components
 
 
 ## SEQUENCE DIAGRAM OF THE MOBILE APPLICATION
 
-![Sequence Diagram](/images/Update Sequence Diagram.png)
-
-// will update soon
+![Sequence Diagram](/images/SequenceDiagram.jpg)
 
 
 ## REFERENCES
