@@ -62,7 +62,7 @@ Firebase | Store users' information
 ## SCREEEN NAVIGATION
 
 ### Home Page:
-![Home Page 1](/images/HomePage.jpg)
+![Home Page 1](/images/HomePage.jpg | width=200)
 ![Home Page 2](/images/HomePage2.jpg)
 
 ### Cafeteria Page:
