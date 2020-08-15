@@ -8,7 +8,7 @@ MUHAMMAD HARITH BIN KHAIRUL FAIZI | 1622875
 NURUL SHUHAILA BINTI AZMAN | 1710060
 ABDULKADIR ABIKAR ABDILBARI | 1626081
 
-**GROUP NAME :** RAUDHAH
+**Group Name :** RAUDHAH
 
 **Instructor’s Name :** Dr. MUHAMAD SADRY ABU SEMAN
 
@@ -65,14 +65,22 @@ Firebase | Store users' information
 ![Home Page 1](/images/HomePage.jpg)
 ![Home Page 2](/images/HomePage2.jpg)
 
+
+
 ### Cafeteria Page:
 ![Cafeteria Page](/images/CafeteriaPage.jpg)
+
+
 
 ### Menu Highlighted Page:
 ![Menu Highlighted Page](/images/MenuHighlights.jpg)
 
+
+
 ### Review Box:
 ![Review Box](/images/Review.jpg)
+
+
 
 ### Profile Page:
 ![Profile Page](/images/ProfilePage.jpg)
