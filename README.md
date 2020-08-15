@@ -61,6 +61,15 @@ Firebase | Store users' information
 
 ## SCREEEN NAVIGATION
 
+### Sign Up Page:
+![Sign Up Page(/images/SignUp.jpg)
+
+
+### Sign In Page:
+![Sign In](/images/SignIn.jpg)
+
+
+
 ### Home Page:
 ![Home Page 1](/images/HomePage.jpg)
 ![Home Page 2](/images/HomePage2.jpg)
