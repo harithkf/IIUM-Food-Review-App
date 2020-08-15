@@ -1,4 +1,4 @@
-# IIUM FOOD REVIEW APPLICATIONS by RAUDHAH
+# IIUM FOOD REVIEW APPLICATION by RAUDHAH
 
 ## GROUP MEMBERS  
 
@@ -14,16 +14,16 @@ ABDULKADIR ABIKAR ABDILBARI | 1626081
 
 
 ## Title 
-IIUM Food Review Applications
+IIUM Food Review Application
 
 
 ## INTRODUCTION
 
 International Islamic University Malaysia (IIUM) has a wide variety of food and cuisine choices where students can find a hard time figuring out what meals are the most recommended. Besides, students are hard to know the business hour for every cafeterias as they have different opening and closing time.
 
-IIUM Food Review Apps is designed to help user in finding meals in IIUM Gombak campus. They can view all cafeterias that are available in IIUM as well as their opening and closing time. It also allows user to give feedback, review and rating for any meal in IIUM. Moreover, they can capture their enjoyable moments with the meal and share it publicly as the memories because it allows users to use their mobile camera to take photo of the meal and write a note about it.
+IIUM Food Review App is designed to help user in finding meals in IIUM Gombak campus. They can view all cafeterias that are available in IIUM as well as their opening and closing time. It also allows user to give feedback, review and rating for any meal in IIUM. Moreover, they can capture their enjoyable moments with the meal and share it publicly as the memories because it allows users to use their mobile camera to take photo of the meal and write a note about it.
 
-IIUM Food Review Apps will display all choices that are available in each cafeteria and others' feedbacks and ratings publicly as well as their precious moments with the meal. Our targeted users are students, staff and visitors of IIUM as they can easily get the apps and sign up for free using their e-mail. Anyone that wish to find the most delicious and unique meal might need IIUM Food Review Apps.
+IIUM Food Review App will display all choices that are available in each cafeteria and others' feedbacks and ratings publicly as well as their precious moments with the meal. Our targeted users are students, staff and visitors of IIUM as they can easily get the apps and sign up for free using their e-mail. Anyone that wish to find the most delicious and unique meal might need IIUM Food Review Apps.
 
 
 ## OBJECTIVES
