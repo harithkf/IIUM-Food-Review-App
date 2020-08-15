@@ -42,7 +42,8 @@ Features | Explanation
 Sign Up | User need to fill in register form for the first time
 Log In | User log in to the app using e-mail and password
 Homepage | Display all cafeterias in IIUM and their business hours
-Food review pages | Display all food and meals that are available at specific cafeterias.
+Food review pages |
+* Display all food and meals that are available at specific cafeterias.
   * Write and view reviews for the meals and cafeterias.
  | Give ratings to the meals in specific cafeterias.
 Take pictures and upload the moments with the meal.
